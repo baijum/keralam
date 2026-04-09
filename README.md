@@ -20,14 +20,18 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 
 - **[Official Media and Communication Channels](political_parties/channels.md)** — verified websites and social media accounts of parties and alliances active in Kerala
 
+### Government Documents
+
+- **[State Budgets](budgets/)** — Budget in Brief documents (2024-25, 2025-26) from the Kerala Finance Department
+- **[Economic Reviews](economic_reviews/)** — Annual economic reviews (2024, 2025) from the Kerala State Planning Board (~700 pages each)
+
 ### Organizations
 
 - **[NGOs and Civil Society Organizations](organizations/ngos.md)** — directory of 40+ prominent NGOs across social welfare, healthcare, education, environment, human rights, and more
 
 ## Planned Additions
 
-- Historical election manifestos (2021, 2016, and earlier)
-- State budgets and economic reviews
 - Government orders and policy documents
+- KIIFB reports and financial statements
 - Institutional and organizational reports
 - Development indicators and statistics
