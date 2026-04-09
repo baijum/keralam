@@ -1,8 +1,16 @@
 # keralam
 
-Information about Kerala
+A research baseline for studying Kerala's development — collecting primary source
+material from political parties, governments, and organizations working in Kerala.
 
-## 2026 Assembly Election Manifestos
+This repository aims to make key documents accessible and structured for researchers,
+journalists, and citizens interested in Kerala's governance and development trajectory.
+
+See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
+
+## Contents
+
+### 2026 Assembly Election Manifestos
 
 The 16th Kerala Legislative Assembly election is scheduled for April 9, 2026. Below are
 the election manifestos from the three major political fronts.
@@ -68,3 +76,11 @@ It covers the period 2026-2031. Key promises include:
 - SC, ST & OBC empowerment
 - Mullaperiyar Dam safety, coastal protection, wildlife encounter solutions
 - Modern cities and Atmanirbhar villages
+
+## Planned Additions
+
+- Historical election manifestos (2021, 2016, and earlier)
+- State budgets and economic reviews
+- Government orders and policy documents
+- Institutional and organizational reports
+- Development indicators and statistics
