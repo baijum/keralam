@@ -12,7 +12,9 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 
 ### Election Manifestos
 
-- **[2026 Assembly Election Manifestos](manifestos/2026_assembly_elections/)** — manifestos from LDF, UDF, and NDA for the 16th Kerala Legislative Assembly election, with video transcripts and QR code data
+- **[2026 Assembly Election](manifestos/2026_assembly_elections/)** — LDF, UDF, and NDA manifestos with video transcripts and QR code data
+- **[2021 Assembly Election](manifestos/2021_assembly_elections/)** — LDF, UDF, and NDA manifestos
+- **[2016 Assembly Election](manifestos/2016_assembly_elections/)** — LDF, UDF, and NDA manifestos/vision documents
 
 ### Political Parties
 
