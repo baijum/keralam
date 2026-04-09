@@ -8,6 +8,7 @@ major political fronts with download links.
 ## LDF (Left Democratic Front)
 
 - **File:** [ldf-mal.pdf](ldf-mal.pdf) (Malayalam, 23 pages)
+- **Extracted Text:** [ldf-mal-text.md](ldf-mal-text.md)
 - **Source:** [Internet Archive](https://archive.org/details/ldf-manifesto-2021)
 - **English version:** [Scribd](https://www.scribd.com/document/613796031/Manifesto-CPIM-2021-ldf) (may require account)
 
@@ -22,6 +23,7 @@ major political fronts with download links.
 ## UDF (United Democratic Front)
 
 - **File:** [udf-mal.pdf](udf-mal.pdf) (Malayalam, 60 pages)
+- **Extracted Text:** [udf-mal-text.md](udf-mal-text.md)
 - **Source:** [Jaihind TV](https://jaihindtv.in/wp-content/uploads/2021/03/UDF-Manifesto-2021.pdf)
 
 ### Key Promises
@@ -35,6 +37,7 @@ major political fronts with download links.
 ## NDA (National Democratic Alliance / BJP)
 
 - **File:** [nda-mal.pdf](nda-mal.pdf) (Malayalam, 24 pages)
+- **Extracted Text:** [nda-mal-text.md](nda-mal-text.md)
 - **Source:** [Internet Archive](https://archive.org/details/scribdfull.com_nda-manifesto-2021)
 
 ### Key Promises

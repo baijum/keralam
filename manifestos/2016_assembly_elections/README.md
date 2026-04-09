@@ -7,6 +7,7 @@ Pinarayi Vijayan became Chief Minister.
 ## LDF (Left Democratic Front)
 
 - **File:** [ldf-mal.pdf](ldf-mal.pdf) (Malayalam, 72 pages)
+- **Extracted Text:** [ldf-mal-text.md](ldf-mal-text.md)
 - **Source:** [Wayback Machine](https://web.archive.org/web/2016/http://www.mmmani.com/wp-content/uploads/2016/04/LDF_Election_Manifesto.pdf)
 - **English version:** [Scribd](https://www.scribd.com/document/488124864/kerala-ldf-manifesto-2016-english-version) (may require account)
 
@@ -24,6 +25,7 @@ The LDF manifesto contained approximately 600 proposals under the theme
 ## UDF (United Democratic Front)
 
 - **File:** [udf-mal.pdf](udf-mal.pdf) (Malayalam, 64 pages)
+- **Extracted Text:** [udf-mal-text.md](udf-mal-text.md)
 - **Source:** [KeralaClick](https://keralaclick.com/blog/wp-content/uploads/2016/04/udf-manifesto-2016.pdf)
 
 Key themes included:
@@ -37,6 +39,7 @@ Key themes included:
 ## NDA (National Democratic Alliance / BJP)
 
 - **File:** [nda-mal.pdf](nda-mal.pdf) (Malayalam, 28 pages)
+- **Extracted Text:** [nda-mal-text.md](nda-mal-text.md)
 - **Source:** [Wayback Machine / keralabjp.org](https://web.archive.org/web/20170203113727/http://keralabjp.org/download/vision-document/item/download/140_9dc5332c4802bba7bea8f92d55cd8f0d)
 
 This is the NDA "വികസനരേഖ" (Vision Document) for the 2016 election, titled
