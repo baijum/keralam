@@ -25,6 +25,10 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 - **[State Budgets](budgets/)** — Budget in Brief documents (2024-25, 2025-26) from the Kerala Finance Department
 - **[Economic Reviews](economic_reviews/)** — Annual economic reviews (2024, 2025) from the Kerala State Planning Board (~700 pages each)
 
+### Demographics and Statistics
+
+- **[Kerala Demographics Reference](statistics/demographics.md)** — population, districts, literacy, sex ratio, religion, urbanization, age structure, and development indicators (Census 2011, NFHS-5, SRS)
+
 ### Organizations
 
 - **[NGOs and Civil Society Organizations](organizations/ngos.md)** — directory of 40+ prominent NGOs across social welfare, healthcare, education, environment, human rights, and more
