@@ -77,6 +77,10 @@ It covers the period 2026-2031. Key promises include:
 - Mullaperiyar Dam safety, coastal protection, wildlife encounter solutions
 - Modern cities and Atmanirbhar villages
 
+### Political Party Channels
+
+- **[Official Media and Communication Channels](political_parties/channels.md)** — verified websites and social media accounts (X, Facebook, Instagram, YouTube, Telegram) of political parties and alliances active in Kerala, including LDF, UDF, NDA, and their constituent parties.
+
 ## Planned Additions
 
 - Historical election manifestos (2021, 2016, and earlier)
