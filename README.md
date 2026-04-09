@@ -81,6 +81,10 @@ It covers the period 2026-2031. Key promises include:
 
 - **[Official Media and Communication Channels](political_parties/channels.md)** — verified websites and social media accounts (X, Facebook, Instagram, YouTube, Telegram) of political parties and alliances active in Kerala, including LDF, UDF, NDA, and their constituent parties.
 
+### Organizations
+
+- **[NGOs and Civil Society Organizations](organizations/ngos.md)** — curated directory of 40+ prominent NGOs and civil society organizations actively working in Kerala, covering social welfare, healthcare, education, environment, women's rights, child welfare, tribal welfare, disability rights, labour rights, human rights, rural development, fisheries, science and research, and arts and culture. Includes websites, descriptions, locations, and social media handles.
+
 ## Planned Additions
 
 - Historical election manifestos (2021, 2016, and earlier)
