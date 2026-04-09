@@ -11,6 +11,13 @@ the election manifestos from the three major political fronts.
 
 - **File:** [ldf-mal.pdf](manifestos/2026_assembly_elections/ldf-mal.pdf) (Malayalam, 49 pages)
 - **QR Code URLs:** [ldf-mal-qr-urls.txt](manifestos/2026_assembly_elections/ldf-mal-qr-urls.txt)
+- **Video Transcripts:** [ldf-mal-video-transcripts.md](manifestos/2026_assembly_elections/ldf-mal-video-transcripts.md) (76 videos, Malayalam + English)
+- **Video Metadata:** [ldf-mal-video-metadata.json](manifestos/2026_assembly_elections/ldf-mal-video-metadata.json)
+
+The manifesto PDF contains 70 QR codes linking to YouTube Shorts on
+[ldfmanifesto2026.com](https://ldfmanifesto2026.com). The video transcripts include
+both on-screen text (slideshow content) and speech, extracted using
+the Google Gemini API.
 
 This is the summary manifesto (പ്രകടന പത്രിക) containing a 60-point programme with
 950 proposals summarized under the theme "നവകേരളം പൂർത്തീകരിക്കാൻ" (To complete
