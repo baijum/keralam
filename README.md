@@ -35,6 +35,7 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 
 ### Organizations
 
+- **[Government Departments and Agencies](organizations/government_directory.md)** — directory of 35 key departments, agencies, and PSUs with websites and social media
 - **[NGOs and Civil Society Organizations](organizations/ngos.md)** — directory of 40+ prominent NGOs across social welfare, healthcare, education, environment, human rights, and more
 
 ## Planned Additions
