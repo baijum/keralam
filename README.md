@@ -25,6 +25,10 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 - **[State Budgets](budgets/)** — Budget in Brief documents (2024-25, 2025-26) from the Kerala Finance Department
 - **[Economic Reviews](economic_reviews/)** — Annual economic reviews (2024, 2025) from the Kerala State Planning Board (~700 pages each)
 
+### Election Results
+
+- **[2021 Assembly Election Results](elections/2021-assembly-results.md)** — complete results for all 140 constituencies including winning MLAs, parties, victory margins, and reservation status
+
 ### Demographics and Statistics
 
 - **[Kerala Demographics Reference](statistics/demographics.md)** — population, districts, literacy, sex ratio, religion, urbanization, age structure, and development indicators (Census 2011, NFHS-5, SRS)
