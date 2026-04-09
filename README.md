@@ -32,6 +32,7 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 ### Demographics and Statistics
 
 - **[Kerala Demographics Reference](statistics/demographics.md)** — population, districts, literacy, sex ratio, religion, urbanization, age structure, and development indicators (Census 2011, NFHS-5, SRS)
+- **[Open Data Sources Catalog](statistics/open-data-sources.md)** — comprehensive catalog of 40+ government portals, open data platforms, and statistical publications with Kerala data, organized by domain (health, education, finance, agriculture, etc.)
 
 ### Organizations
 
