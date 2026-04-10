@@ -41,6 +41,7 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 - **[Government Departments and Agencies](organizations/government_directory.md)** — directory of 35 key departments, agencies, and PSUs with websites and social media
 - **[NGOs and Civil Society Organizations](organizations/ngos.md)** — directory of 40+ prominent NGOs across social welfare, healthcare, education, environment, human rights, and more
 - **[News Media Directory](organizations/media_directory.md)** — comprehensive directory of Malayalam and English news media outlets covering Kerala, including newspapers, TV channels, and digital portals with verified websites and social media handles
+- **[Cooperative Societies and Federations](organizations/cooperatives.md)** — directory of major cooperative societies and federations across dairy, banking, consumer retail, manufacturing, coir, handloom, rubber, fisheries, and housing sectors
 
 ## Planned Additions
 
