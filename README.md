@@ -28,6 +28,7 @@ See [CLAUDE.md](CLAUDE.md) for project conventions and contribution guidelines.
 ### Election Results
 
 - **[2021 Assembly Election Results](elections/2021-assembly-results.md)** — complete results for all 140 constituencies including winning MLAs, parties, victory margins, and reservation status
+- **[2016 Assembly Election Results](elections/2016-assembly-results.md)** — complete results for all 140 constituencies (LDF 91, UDF 47, NDA 1)
 
 ### Demographics and Statistics
 
